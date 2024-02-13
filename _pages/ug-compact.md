@@ -113,6 +113,3 @@ Some students love the idea of getting to spend time diving into their research 
 
 <!-- # Semester Evaluation -->
 
---
-
-Credits: Sections of this compact were copied wholesale, without explicit permission, from similar documents of the Josić lab and Gutierrez lab.
