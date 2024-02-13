@@ -6,4 +6,6 @@ redirect_from:
   - /research.html
 ---
 
-Page under construction
+I am interested in applications of combinatorics, topology, geometry, and algebra to mathematical neuroscience and artificial intelligence.
+
+[Undergraduate students interested in working with me should read this.](/research/ug/compact)
