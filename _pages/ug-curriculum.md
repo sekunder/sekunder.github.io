@@ -1,6 +1,6 @@
 ---
 title: "Example Curriculum"
-permalink: /research/ug/curriculum
+permalink: /research/ug/curriculum/
 author_profile: false
 ---
 
