@@ -1,5 +1,5 @@
 ---
-title: "Mentor-Mentee Compac for Undergraduates"
+title: "Mentor-Mentee Compact for Undergraduates"
 permalink: /ug-compact/
 author_profile: false
 redirect_from:
