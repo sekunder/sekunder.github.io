@@ -8,4 +8,4 @@ redirect_from:
 
 I am interested in applications of combinatorics, topology, geometry, and algebra to mathematical neuroscience and artificial intelligence.
 
-[Undergraduate students interested in working with me should read this.](/research/ug/compact)
+[Undergraduate students interested in working with me should read this.](/ug-compact)

@@ -27,7 +27,7 @@ To make substantial research progress, you will need to be able to devote three 
 
 In general, I expect you to:
 * Be honest, ethical, and enthusiastic
-* Learn new [mathematical theory and applications](/research/ug/curriculum), beyond what is covered in your classes
+* Learn new [mathematical theory and applications](/ug-curriculum), beyond what is covered in your classes
 * Learn how to plan, design, and conduct high-quality mathematical and scientific research
 * Learn how to document and present your findings, and do so regularly <!--probably via basecamp -->
 * Attend regular meetings: 3-4 lab meetings during the semester, and 1-on-1 meetings with your research mentor every week or two.
