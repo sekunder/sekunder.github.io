@@ -1,7 +1,9 @@
 ---
 title: "Mentor-Mentee Compac for Undergraduates"
-permalink: /research/ug/compact
+permalink: /ug-compact/
 author_profile: false
+redirect_from:
+  - /ug-compact.html
 ---
 
 If you are an undergraduate student interested in working with me, please read through the [compact](https://www.merriam-webster.com/dictionary/compact#dictionary-entry-4) below.

@@ -1,6 +1,6 @@
 ---
 title: "Example Curriculum"
-permalink: /research/ug/curriculum/
+permalink: /ug-curriculum
 author_profile: false
 ---
 
@@ -34,7 +34,7 @@ To effectively engage in the research that I do, you will need to learn some of 
 ## Languages
 Most of my work is done in Python or Julia
 * `Python` is one of the most popular languages in use right now. There are extensive packages written for it to accomplish just about anything you want to do.
-* `Julia` is 
+* `Julia` is a more recent language that attempts to bridge the gap between the ease of use of Python and the performance of lower-level language like C. One major reason I like it is the design of the type system.
 
 ## The Command Line
 Learn to use the Linux command line. If you end up needing to use high-performance computing resources (such as the Holland Computing Center), this is basically your only way to interface with such systems. Also, learning to use the commandline will make you cooler and more handsome.
