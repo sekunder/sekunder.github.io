@@ -14,4 +14,4 @@ Previously, I was a postdoctoral fellow of the National Library of Medicine Biom
 I defended my PhD in combinatorics and discrete geometry with applications to neuroscience at Penn State in 2019 under the direction of [Vladimir Itskov](https://vitskov.github.io/homepage/).
 
 In addition to my academic interests, I enjoy
-using mathematics as a tool for creating beautiful sculptures.
+using mathematics as a tool for creating [beautiful sculptures](/portfolio/).
