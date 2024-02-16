@@ -1,7 +1,7 @@
 ---
 title: "Lover's Knot"
 excerpt: "An orderly tangle of 6 cinquefoil knots<br/><img src='/images/sculpture/tangle-1-thumbnail.png'/>"
-collection: artwork
+collection: 3dprinting
 ---
 
 An orderly tangle of six [cinquefoil knots](https://en.wikipedia.org/wiki/Cinquefoil_knot). Designed in Mathematica.
