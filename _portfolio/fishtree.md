@@ -1,6 +1,6 @@
 ---
 title: "Fishtree"
-except: "A (poorly-modeled) fish, about to eat two smaller fish, each about to each two smaller fish, ad infinitum.<br/><img src='/images/sculpture/fishtree-1-thumbnail.png'/>"
+excerpt: "A (poorly-modeled) fish, about to eat two smaller fish, each about to each two smaller fish, ad infinitum.<br/><img src='/images/sculpture/fishtree-1-thumbnail.png'/>"
 collection: 3dprinting
 ---
 
