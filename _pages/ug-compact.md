@@ -18,7 +18,7 @@ As part of my job as a professor, I am expected initiate research and make contr
 
 Another part of my job is teaching and mentoring students. As an undergraduate student, your primary goal is to graduate in a timely fashion. Your for-credit classes should be your priority.
 
-To make substantial research progress, you will need to be able to devote three to four hours to working on your research project per week. In other words, working research should be like a 3-credit class.
+To make substantial research progress, you will need to be able to devote at least three or four hours to working on your research project per week. In other words, working on a research project should be like a 3-credit class.
 <!-- The amount of time you are expected to work each week will depend on your level of availability and the project tasks assigned to you, but to make progress you should expect to spend a few hours working every week. -->
 <!-- In addition to project tasks, you may engage in administrative lab tasks. -->
 <!-- You are expected to attend lab meetings. We aim to have 3-4 lab meetings each semester. During the summers, lab meetings are held weekly. -->
@@ -30,7 +30,7 @@ In general, I expect you to:
 * Learn new [mathematical theory and applications](/ug-curriculum), beyond what is covered in your classes
 * Learn how to plan, design, and conduct high-quality mathematical and scientific research
 * Learn how to document and present your findings, and do so regularly <!--probably via basecamp -->
-* Attend regular meetings: 3-4 lab meetings during the semester, and 1-on-1 meetings with your research mentor every week or two.
+* Attend regular meetings: 3-4 lab meetings during the semester, and 1-on-1 meetings with your research mentor (most likely me) every week or two.
 * Be engaged with the research group, by presenting and joining the discussion at lab meetings
 * Treat your lab mates and lab funds with respect
 * Take advantage of professional development opportunities (for example, when recent graduates return to campus to discuss their experiences, or when an outside speaker will be giving a lecture on a relevant topic)
@@ -114,4 +114,3 @@ Some students love the idea of getting to spend time diving into their research 
 
 
 <!-- # Semester Evaluation -->
-
