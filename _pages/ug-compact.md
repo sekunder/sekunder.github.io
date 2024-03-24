@@ -85,10 +85,10 @@ As I read a paper I mark it up, and after I finish I try to reflect on a few key
 * What was the single most interesting thing to me in the paper?
 * Which concepts or ideas did I not understand? Where can I learn more about them?
 
-It is a great idea to save a paper that was useful to you in a reference manager like Zotero or Mendeley.
+It is a great idea to save a paper that was useful to you in a reference manager like [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/).
 
 ## Some words of encouragement
-Scientific research, by its nature, is about constantly confronting your own ignorance. You’re always trying to find out what you don’t know. Sometimes, no one in the world knows. That’s when you have a truly interesting scientific question that could lead to a big breakthrough for the field. Doing science will always make you feel like you’re dumb. Don’t let that discourage you. Learn to love your own ignorance and let it guide you to learn more and to find great discoveries. 
+Scientific research, by its nature, is about constantly confronting your own ignorance. You’re always trying to find out what you don’t know. Sometimes, no one in the world knows. That’s when you have a truly interesting scientific question that could lead to a big breakthrough for the field. Doing science will always make you feel like you’re dumb. Don’t let that discourage you. Learn to love your own ignorance and let it guide you to learn more and to find great discoveries.
 
 My goal as a mentor is not to make you into an expert. My goal is to show you how to learn independently. It is unlikely that over the course of working together that you will feel a true sense of confidence and mastery of the field of research you’re working on - even I don’t have that! But you will learn how to learn and how to keep asking questions like the best researchers. 
 

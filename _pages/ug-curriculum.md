@@ -8,8 +8,11 @@ To effectively engage in the research that I do, you will need to learn some of 
 
 # Mathematics
 
+* Linear Algebra
+    * Know what eigenvectors and eigenvalues are. Learn what they mean in a variety of contexts; for example: in PCA, in multivariate Gaussian distributions, in graph adjacency and Laplacian matrices, in multivariable calculus, in differential equations, in markov chains, ...
+    * Just keep learning linear algebra, forever; you will never regret learning more linear algebra
 * Probability theory and information theory
-    * Random variables: meaning, expectation, moments
+    * Random variables: expectation, moments
     * Joint distributions of random variables, including marginalization and conditioning
     * Entropy of a distribution and using the max-entropy principle
     * Markov chains
@@ -20,9 +23,6 @@ To effectively engage in the research that I do, you will need to learn some of 
 * Discrete math
     * the Boolean lattice and partially ordered sets in general
     * Mobius inversion
-* Linear Algebra
-    * Know what eigenvectors and eigenvalues are. Learn what they mean in a variety of contexts; for example: in PCA, in multivariate Gaussian distributions, in graph adjacency and Laplacian matrices, in multivariable calculus, in differential equations, in markov chains, ...
-    * Just keep learning linear algebra, forever; you will never regret learning more linear algebra
 * Calculus, especially multivariable/vector calculus
     * Be able to compute the gradient of a complicated-looking function (e.g. the loglikelihood function)
     * Have some intuition for what derivatives are (they let you do linear approximations of functions; remember how I said you'll never regret learning more linear algebra)
