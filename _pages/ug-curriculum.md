@@ -36,10 +36,14 @@ To effectively engage in the research that I do, you will need to learn some of 
 
 # Programming
 
+Here is a short [start up guide](/ug-programming) to help you get things set up to do computational neuroscience research.
+I recommend using something like [VSCode](https://code.visualstudio.com/) to write scripts and notebooks.
+
 ## Languages
 Most of my work is done in Python or Julia
-* `Python` is one of the most popular languages in use right now. There are extensive packages written for it to accomplish just about anything you want to do.
-* `Julia` is a more recent language that attempts to bridge the gap between the ease of use of Python and the performance of lower-level language like C. One major reason I like it is the design of the type system.
+* [`Python`](https://www.python.org/) is one of the most popular languages in use right now. There are extensive packages written for it to accomplish just about anything you want to do. It's free!
+* [`Julia`](https://julialang.org/) is a more recent language that attempts to bridge the gap between the ease of use of Python and the performance of lower-level language like C. One major reason I like it is the design of the type system. It's free!
+* [MATLAB](https://www.mathworks.com/products/matlab.html) is a proprietary programming environment with lots of nice features for doing matrix manipulations and lots of other things. It does cost money, but if you have a Creighton email address you should be able to get it for free.
 
 ## The Command Line
 Learn to use the Linux command line. If you end up needing to use high-performance computing resources (such as the Holland Computing Center), this is basically your only way to interface with such systems. Also, learning to use the commandline will make you cooler and more handsome.
