@@ -25,7 +25,7 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
 ## Additional Materials
 
- - A helpful [overview](https://sarahconstantin.substack.com/p/ai-deep-research-tools-reviewed) of AI lit review tools.
+ - A helpful [comparison](https://sarahconstantin.substack.com/p/ai-deep-research-tools-reviewed) of several AI lit review tools.
 
 # Session 2: Creating a RAG application
 
