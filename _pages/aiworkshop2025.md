@@ -29,8 +29,10 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
 # Session 2: Creating a RAG application
 
+ - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:b:/g/personal/abk36556_creighton_edu/EdQ-NhfbOhtKqXufE9rRJ9wBF6sWIf7d3qM0wDZuI8RaWg?e=Z2W8VZ)
+ - [Sample patient history pdf (Creighton login required)](https://creightonuniv-my.sharepoint.com/:b:/g/personal/abk36556_creighton_edu/EdQ-NhfbOhtKqXufE9rRJ9wBF6sWIf7d3qM0wDZuI8RaWg?e=dhE7zu)
+
 # Session 3: Running an LLM locally
 
-[Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/ETmk7wvxTB5DjsQhFBjRaqEBBPG0_mQWiLORfVRYQnjXFw?e=lPInGX)
-
-You'll need to download [GPT4all](https://www.nomic.ai/gpt4all)
+ - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/ETmk7wvxTB5DjsQhFBjRaqEBBPG0_mQWiLORfVRYQnjXFw?e=lPInGX)
+ - You'll need to download [GPT4all](https://www.nomic.ai/gpt4all)
