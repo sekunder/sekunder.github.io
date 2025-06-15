@@ -37,5 +37,5 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
 # Session 3: Running an LLM locally
 
- - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/slf20757_creighton_edu/EafuBE66N9FDkBpVOYXLnXUBkWglDZtY1zQAF4Johgoktw?e=RuBdOK)
+ - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/ES0lLAge85xKslH2nod6QaUB37Sy66zV9WixMvMO8rOEgg?e=MWeyys)
  - You'll need to download [GPT4all](https://www.nomic.ai/gpt4all)
