@@ -29,7 +29,7 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
 # Session 2: Creating a RAG application
 
- - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:b:/g/personal/abk36556_creighton_edu/EdQ-NhfbOhtKqXufE9rRJ9wBF6sWIf7d3qM0wDZuI8RaWg?e=Z2W8VZ)
+ - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/slf20757_creighton_edu/EX9CKyZDYWpKuiOxr4F6u9YBWlqEO0EttGtT4jtGvCjFsw?e=5fVLRc)
  - [Sample patient history pdf (Creighton login required)](https://creightonuniv-my.sharepoint.com/:b:/g/personal/abk36556_creighton_edu/EdQ-NhfbOhtKqXufE9rRJ9wBF6sWIf7d3qM0wDZuI8RaWg?e=dhE7zu)
  - Link to [get a Gemini API key](https://ai.google.dev/gemini-api/docs/api-key)
  - Link to [the preapred RAG application](https://huggingface.co/spaces/stevafernandes/RAG)
@@ -37,5 +37,5 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
 # Session 3: Running an LLM locally
 
- - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/ETmk7wvxTB5DjsQhFBjRaqEBBPG0_mQWiLORfVRYQnjXFw?e=lPInGX)
+ - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/slf20757_creighton_edu/EafuBE66N9FDkBpVOYXLnXUBkWglDZtY1zQAF4Johgoktw?e=RuBdOK)
  - You'll need to download [GPT4all](https://www.nomic.ai/gpt4all)
