@@ -31,8 +31,13 @@ I served as co-leader for the technical track with [Steven Fernandes](https://st
 
  - [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/ES3zUpGrmmtIpXUa77yW18sBb-pepnVUgaHi6JXwiHiiZA?e=WeVwlk)
  - [Sample patient history pdf (Creighton login required)](https://creightonuniv-my.sharepoint.com/:b:/g/personal/abk36556_creighton_edu/EdQ-NhfbOhtKqXufE9rRJ9wBF6sWIf7d3qM0wDZuI8RaWg?e=dhE7zu)
- - Link to [get a Gemini API key](https://ai.google.dev/gemini-api/docs/api-key)
- - Link to [the preapred RAG application](https://huggingface.co/spaces/stevafernandes/RAG)
+
+ ## Links
+ - [Get a Gemini API key](https://ai.google.dev/gemini-api/docs/api-key)
+ - Link to [The preapred RAG application](https://huggingface.co/spaces/stevafernandes/RAG)
+ - [An example Video RAG application](https://huggingface.co/spaces/stevafernandes/VRAG)
+ - [A demo video](https://www.dropbox.com/scl/fi/hem6zbrq92uo7j3ah6ilr/sample_soccer_video.mp4?rlkey=83rx9m2ij2r5kro599h7w8i8z&e=1&st=np2lh8jj&dl=0)
+
 
 
 # Session 3: Running an LLM locally
