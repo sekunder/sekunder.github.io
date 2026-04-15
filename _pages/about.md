@@ -19,3 +19,7 @@ using mathematics as a tool for creating [beautiful sculptures](/portfolio/).
 ---
 
 In June 2025, I served as co-lead for the technical track of the "Educating the Whole Person in an AI-Driven World" workshop. You can find slides and additional materials [here](/aiworkshop2025).
+
+---
+
+All opinions expressed on this website are my own, and do not reflect those of any employer or funding agency.

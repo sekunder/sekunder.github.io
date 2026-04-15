@@ -1,14 +1,18 @@
 ---
 layout: archive
-title: "Creighton AI Workshop 2025"
+title: "AI for Educators – Technical Applications"
 permalink: /aiworkshop2025/
 author_profile: false
 redirect_from:
   - /aiworkshop
+  - /aiworkshop2025
+  - /aiworkshop2026
 ---
 
 In June 2025, Creighton held a workshop for faculty and staff titled "Educating the Whole Person in an AI-Driven World."
 I served as co-leader for the technical track with [Steven Fernandes](https://steven-fernandes.com/). This page provides links to the slides used for our three sessions, together with additional reference material.
+
+In April 2026, I chaired an online version of the workshop.
 
 # Session 1: The landscape of AI
 
