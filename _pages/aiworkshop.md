@@ -12,7 +12,20 @@ redirect_from:
 In June 2025, Creighton held a workshop for faculty and staff titled "Educating the Whole Person in an AI-Driven World."
 I served as co-leader for the technical track with [Steven Fernandes](https://steven-fernandes.com/). This page provides links to the slides used for our three sessions, together with additional reference material.
 
-In April 2026, I chaired an online version of the workshop.
+In April 2026, I chaired an online version of the workshop, which was an updated and compressed version of the presentations from the summer.
+
+# Online version (April 2026)
+
+<!-- [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/IQBLSf8siG_HT5w0Ez9s6yayAXKdVeElTvGlTw3GoIqDxmw?e=9FdtcJ) -->
+Slides will be posted soon!
+
+To get the most out of the session, get a [Gemini API key](https://ai.google.dev/gemini-api/docs/api-key) and download [GPT4all](https://www.nomic.ai/gpt4all). Instructions can be found in the slides for Session 2 and Session 3 below. You will still be able to follow along without these!
+
+## References and links
+
+ - ["The Bitter Lesson" by Rich Sutton](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+ - ["Claude Code for Scientists" by Patrick Mineault](https://www.neuroai.science/p/claude-code-for-scientists)
+ - ["Beyond Critical Thinking" by Steven Mintz](https://stevenmintz.substack.com/p/beyond-critical-thinking)
 
 # Session 1: The landscape of AI
 
