@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "AI for Educators – Technical Applications"
-permalink: /aiworkshop2025/
+permalink: /aiworkshop/
 author_profile: false
 redirect_from:
   - /aiworkshop
