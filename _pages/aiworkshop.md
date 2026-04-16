@@ -1,12 +1,14 @@
 ---
 layout: archive
 title: "AI for Educators – Technical Applications"
-permalink: /aiworkshop/
+permalink: /aiworkshop
 author_profile: false
 redirect_from:
-  - /aiworkshop
+  - /aiworkshop/
   - /aiworkshop2025
+  - /aiworkshop2025/
   - /aiworkshop2026
+  - /aiworkshop2026/
 ---
 
 In June 2025, Creighton held a workshop for faculty and staff titled "Educating the Whole Person in an AI-Driven World."
