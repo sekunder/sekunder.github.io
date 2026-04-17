@@ -22,6 +22,11 @@ In April 2026, I chaired an online version of the workshop, which was an updated
 
 To get the most out of the session, get a [Gemini API key](https://ai.google.dev/gemini-api/docs/api-key) and download [GPT4all](https://www.nomic.ai/gpt4all). Instructions can be found in the slides for Session 2 and Session 3 below. You will still be able to follow along without these!
 
+## Example chats
+
+ - [Claude helping write code to facilitate data analysis](https://claude.ai/share/78ede69a-847f-41a1-a9ba-ddf27700ce06)
+  - [ChatGPT helping me make espresso](https://chatgpt.com/share/69e28246-d5d4-83ea-ba53-451573e88387)
+
 ## References and links
 
  - ["The Bitter Lesson" by Rich Sutton](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
