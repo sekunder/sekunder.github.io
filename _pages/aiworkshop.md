@@ -18,8 +18,7 @@ In April 2026, I chaired an online version of the workshop, which was an updated
 
 # Online version (April 2026)
 
-<!-- [Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/IQBLSf8siG_HT5w0Ez9s6yayAXKdVeElTvGlTw3GoIqDxmw?e=9FdtcJ) -->
-Slides will be posted soon!
+[Slides (Creighton login required)](https://creightonuniv-my.sharepoint.com/:p:/g/personal/abk36556_creighton_edu/IQBLSf8siG_HT5w0Ez9s6yayAXKdVeElTvGlTw3GoIqDxmw?e=9FdtcJ)
 
 To get the most out of the session, get a [Gemini API key](https://ai.google.dev/gemini-api/docs/api-key) and download [GPT4all](https://www.nomic.ai/gpt4all). Instructions can be found in the slides for Session 2 and Session 3 below. You will still be able to follow along without these!
 
